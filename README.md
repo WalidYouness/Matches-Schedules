@@ -7,9 +7,7 @@ A Python script to scrape football match details from the Yallakora website and 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -34,3 +32,6 @@ You can install the required libraries using `pip`:
 
 ```bash
 pip install requests beautifulsoup4
+```
+##Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the code of conduct.
